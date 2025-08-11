@@ -41,7 +41,7 @@ Install required Python libraries:
 pip install pandas numpy matplotlib seaborn
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/your-username/ksa-supplychain-analytics.git
+git clone https://github.com/AneesAhmadDA//ksa-supplychain-analytics.git
 cd ksa-supplychain-analytics
 Place the dataset (warehouse_operations_saudi_international.csv) in the same directory as warehouse_project.py.
 
