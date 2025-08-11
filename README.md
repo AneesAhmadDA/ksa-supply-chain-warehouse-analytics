@@ -6,6 +6,8 @@ This project delivers an in-depth data analytics and visualization solution for 
 
 The end result is a multi-page PDF dashboard providing clear, data-driven insights for decision-making.
 
+---
+
 ##🎯 Key Objectives
 
 Analyze sales and revenue performance by product category and region.
